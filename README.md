@@ -1,22 +1,23 @@
 ### Hi there, I'm Uddhav Gupta 👋
 
-👨‍🎓 I'm currently in my fourth year of an IT B.Tech study, passionate about technology and innovation.
+👨‍🎓 I'm a fourth-year IT B.Tech student that is passionate about technology and innovation.
 
-🧠 My primary areas of concentration are Deep Learning and Android Development. I love to explore the intersection of these fields, creating intelligent mobile applications powered by cutting-edge AI.
+🧠Deep Learning and Android Development are my key areas of interest. I enjoy investigating the convergence of these topics by developing intelligent mobile applications driven by cutting-edge AI.
 
 🌟 Here's a glimpse of what I'm up to:
 
-- 📚 Studying at NEHU and constantly learning about the latest trends in IT, Machine Learning, and Android Development.
-- 💻 Working on exciting deep learning projects to solve real-world problems.
-- 📱 Developing Android applications that incorporate the power of AI for a smarter, more intuitive user experience.
+- 📚 At NEHU, I am constantly learning about the latest IT, Machine Learning, and Android Development developments.
+- 💻 Working on fascinating deep learning projects that address real-world issues.
+- 📱 Creating Android applications that leverage AI to provide a smarter, more intuitive user experience.
 
-🚀 I'm on a journey to make a difference in the tech world, and I'm always open to collaboration and new opportunities.
+🚀 I'm on a mission to make a difference in the world of technology, and I'm always open to new collaborations and opportunities.
 
 ### 🔧 Technologies and Tools I Work With:
 
 - **Languages:** Python, Java, Kotlin, C/C++, JS
-- **Deep Learning:** TensorFlow, PyTorch
+- **Deep Learning:** TensorFlow, NumPy, Pandas, keras, Matplotlib, Seaborn, Sklearn
 - **Mobile Development:** Android Studio, Java
+- **Frameworks:** Node.js
 - **Version Control:** Git, GitHub
 - **Databases:** SQLite, Firebase, MongoDB
 
@@ -30,4 +31,4 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ug932123&show_icons=true&theme=light)
 
-Thanks for visiting my profile! Let's connect and collaborate on exciting projects. 😊
+Thank you for looking at my profile! Let's connect and work on exciting initiatives together. 😊
